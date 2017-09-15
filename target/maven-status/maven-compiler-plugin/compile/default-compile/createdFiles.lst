@@ -1,0 +1,7 @@
+business\movieDBImpl.class
+business\MovieMapImpl.class
+business\MovieService.class
+persistance\Movie.class
+interoperability\JAXActivator.class
+util\JSONUtil.class
+interoperability\MovieEndPoint.class
